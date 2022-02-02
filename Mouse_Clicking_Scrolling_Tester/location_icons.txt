@@ -1,0 +1,20 @@
+Locations: Main Page
+0 AdvIcon 	[(69, 108), (212, 301)]
+1 TresIcon 	[(255, 110), (402, 302)]
+2 ChestIcon	[(600, 5), (631, 37)]
+3 HeroesIcon 	[(575, 328) , (621,390)]
+4 ChestHeroesIcon [(371,328), (416, 390)]
+
+Bombing Page
+5 BackIcon 	[(12, 10), (50, 40)]
+
+Chest Heroes Page
+6 exitIcon 	[(365,59), (393, 91)]
+
+Heroes Page
+7 allicon 	[(248, 100), (282,115)]
+8 exitIcon	[(343,62),(370, 89)]
+10 restAll	[(287,100),(325,116)]
+
+Chest Page
+9 exitIcon	[(486, 62), (513, 91)]
